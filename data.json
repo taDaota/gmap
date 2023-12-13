@@ -26,8 +26,8 @@
     ],
     [
       "",
-      "FastFood",
-      "https://tadaota.github.io/gmap/takotora.jpg/",
+      "Fast Food",
+      "https://tadaota.github.io/gmap/takotora.jpg",
       "35.02916262",
       "135.7383263",
       "Takotora",
@@ -35,6 +35,15 @@
       "",
       "",
       "https://tabelog.com/kyoto/A2601/A260501/26005256/"
+    ],
+    [
+      "",
+      "Fast Food",
+      "",
+      "35.02612879",
+      "135.7359132",
+      "Sanbaka",
+      "Opening Hours\r\n10:30-20:00"
     ]
   ]
 }
