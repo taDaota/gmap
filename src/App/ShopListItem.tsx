@@ -33,7 +33,7 @@ const Content = (props: Props) => {
               </Link>
             </span>
           }
-          <span className="nowrap">{distanceTipText && <span className="distance">現在位置から {distanceTipText}</span>}</span>
+          <span className="nowrap">{distanceTipText && <span className="distance">Distance {distanceTipText}</span>}</span>
         </div>
 
         <div style={{ margin: "10px 10px 10px 0" }}>

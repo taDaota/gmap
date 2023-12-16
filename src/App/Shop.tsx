@@ -61,7 +61,7 @@ const Content = (props: Props) => {
   return (
     <div className="shop-single">
       <div className="head">
-        <button onClick={clickHandler}><AiOutlineClose size="16px" color="#FFFFFF" /> 閉じる</button>
+        <button onClick={clickHandler}><AiOutlineClose size="16px" color="#FFFFFF" /> Close</button>
       </div>
       <div className="container">
         {shop?
@@ -73,7 +73,7 @@ const Content = (props: Props) => {
                   <span onClick={clickHandler} className="category">{category}</span>
                 </Link>
               </span>
-              <span className="nowrap">{distanceTipText && <span className="distance">現在位置から {distanceTipText}</span> }</span>
+              <span className="nowrap">{distanceTipText && <span className="distance">Distance {distanceTipText}</span> }</span>
             </div>
 
             <div style={{margin: "24px 0"}}><Links data={shop} /></div>
@@ -90,7 +90,7 @@ const Content = (props: Props) => {
               data-navigation-control="off"
             ></div>
 
-            <p><a className="small" href={`http://maps.apple.com/?q=${shop['緯度']},${shop['経度']}`}>スポットまでの道順</a></p>
+            <p><a className="small" href={`http://maps.apple.com/?q=${shop['緯度']},${shop['経度']}`}>Open in Map App</a></p>
 
           </>
           :
