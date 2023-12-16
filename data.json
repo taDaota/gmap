@@ -16,7 +16,7 @@
       "Facebook"
     ],
     [
-      "",
+      "4",
       "Fine Art",
       "https://tadaota.github.io/gmap/senbon_shakado.jpg",
       "35.03176383",
@@ -26,7 +26,7 @@
       "https://www.instagram.com/explore/locations/1528007/"
     ],
     [
-      "",
+      "3",
       "Fast Food",
       "https://tadaota.github.io/gmap/takotora.jpg",
       "35.02916262",
@@ -38,7 +38,7 @@
       "https://tabelog.com/kyoto/A2601/A260501/26005256/"
     ],
     [
-      "",
+      "2",
       "Fast Food",
       "https://tadaota.github.io/gmap/sanbaka.jpg",
       "35.02612879",
@@ -50,12 +50,16 @@
       "https://tabelog.com/kyoto/A2601/A260501/26029796/dtlrvwlst/"
     ],
     [
-      "",
-      "Now Happening",
+      "1",
+      "Fine Art",
       "",
       "35.02664295",
       "135.7344775",
-      "Tatatsu Museum"
+      "Tatatsu Museum",
+      "Unique cinematic artifacts vividly encapsulate Japan's cultural and film history. The intricacies of 16th-century samurai armor and the elegance of 17th-century bridal art blend art, history, and cinema, highlighting a rich artistic heritage.\nClosed on Sundays",
+      "",
+      "",
+      "http://www1.odn.ne.jp/kozu-kobunka/"
     ]
   ]
 }
