@@ -1,65 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:K83",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト",
-      "Facebook"
-    ],
-    [
-      "4",
-      "Fine Art",
-      "https://tadaota.github.io/gmap/senbon_shakado.jpg",
-      "35.03176383",
-      "135.739611",
-      "Senbon-shakado Fine art Gallery",
-      "\"The highlight is 13th-century masterpieces, with their sculptural depictions rich in realism reflecting the turbulent era of the samurai, offer a unique glimpse into a time of strife, captured through the serene yet vivid artistry of the sculptor Kaikei. The main hall of Senbon Shakado is one of the oldest architectural structures in Kyoto city.\"",
-      "https://www.instagram.com/explore/locations/1528007/"
-    ],
-    [
-      "3",
-      "Fast Food",
-      "https://tadaota.github.io/gmap/takotora.jpg",
-      "35.02916262",
-      "135.7383263",
-      "Takotora",
-      "\"Takotora serves up Takoyaki that's hard to resist. With its crispy exterior, gooey center, and delicious sauce, it's a must-try for both dine-in and takeaway experiences.\"\n\nA local favorite near Kitano-tenmangu Shrine \n\nOpening Hours\n17:00-24:00",
-      "",
-      "",
-      "https://tabelog.com/kyoto/A2601/A260501/26005256/"
-    ],
-    [
-      "2",
-      "Fast Food",
-      "https://tadaota.github.io/gmap/sanbaka.jpg",
-      "35.02612879",
-      "135.7359132",
-      "Sanbaka",
-      "Authentic Fried chicken with a wide range of flavors and styles, each bite offers a taste of tradition and quality. Perfect for those exploring the diverse culinary landscape of Kyoto! Both dine-in and takeaway available.\"\n\nOpening Hours\n10:30-20:00",
-      "",
-      "",
-      "https://tabelog.com/kyoto/A2601/A260501/26029796/dtlrvwlst/"
-    ],
-    [
-      "1",
-      "Fine Art",
-      "",
-      "35.02664295",
-      "135.7344775",
-      "Tatatsu Museum",
-      "Unique cinematic artifacts vividly encapsulate Japan's cultural and film history. The intricacies of 16th-century samurai armor and the elegance of 17th-century bridal art blend art, history, and cinema, highlighting a rich artistic heritage.\nClosed on Sundays",
-      "",
-      "",
-      "http://www1.odn.ne.jp/kozu-kobunka/"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
